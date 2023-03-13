@@ -6,7 +6,7 @@ module.exports ={
     database: 'fagundes',
     define:{
         timestamp: true,
-        undescored: true,
+        undescored: true
     },
 };
 
